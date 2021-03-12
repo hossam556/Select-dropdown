@@ -1,0 +1,6 @@
+.cardP:hover{
+  background-color: #44475f;
+}
+.cardP{
+    padding: 5px 15px;
+}

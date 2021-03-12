@@ -1,0 +1,22 @@
+.box{
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+    background-color: cadetblue;
+
+}
+.box2{
+    position: relative;
+    box-sizing: border-box;
+
+}
+.box p{
+    width: 100%;
+    color: white;
+}
+.icon{
+    transform: rotate(180deg);
+}
+
+
